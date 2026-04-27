@@ -40,7 +40,7 @@ DB_CONFIG = {
     'port'    : '5432',
     'database': 'HealthcareAnalysisDatabase',
     'user'    : 'postgres',
-    'password': 'anu3002'
+    'password': '[password]'
 }
  
 engine = create_engine(
